@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1778137040,,"wq!"
+|2,0,1778137774,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,20 +25,37 @@
 # Registers:
 
 # File marks:
-'0  1  30  ~/file2
-|4,48,1,30,1778137040,"~/file2"
-'1  1  25  ~/file1
-|4,49,1,25,1778136575,"~/file1"
+'0  1  26  ~/gitfile3
+|4,48,1,26,1778137774,"~/gitfile3"
+'1  1  30  ~/file2
+|4,49,1,30,1778137040,"~/file2"
+'2  1  25  ~/file1
+|4,50,1,25,1778136575,"~/file1"
 
 # Jumplist (newest first):
+-'  1  26  ~/gitfile3
+|4,39,1,26,1778137774,"~/gitfile3"
+-'  1  30  ~/file2
+|4,39,1,30,1778137040,"~/file2"
 -'  1  30  ~/file2
 |4,39,1,30,1778137040,"~/file2"
 -'  1  25  ~/file1
 |4,39,1,25,1778136575,"~/file1"
 -'  1  25  ~/file1
 |4,39,1,25,1778136575,"~/file1"
+-'  1  25  ~/file1
+|4,39,1,25,1778136575,"~/file1"
+-'  1  25  ~/file1
+|4,39,1,25,1778136575,"~/file1"
 
 # History of marks within files (newest to oldest):
+
+> ~/gitfile3
+	*	1778137770	0
+	"	1	26
+	^	1	27
+	.	1	26
+	+	1	26
 
 > ~/file2
 	*	1778137038	0
